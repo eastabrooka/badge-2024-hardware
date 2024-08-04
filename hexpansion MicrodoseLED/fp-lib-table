@@ -1,0 +1,6 @@
+(fp_lib_table
+  (version 7)
+  (lib (name "tildagon")(type "KiCad")(uri "${KIPRJMOD}/../tildagon-base/tildagon.pretty")(options "")(descr ""))
+  (lib (name "[Eastabrooka] LED Library")(type "KiCad")(uri "C:/Users/Eastabrooka/Desktop/FabBeforeCruise/badge-2024-hardware/KicadFootprints/AlexsLibraryFiles/LEDs/[Eastabrooka] LED Library.pretty")(options "")(descr ""))
+  (lib (name "[Eastabrooka] Logos")(type "KiCad")(uri "C:/Users/Eastabrooka/Desktop/FabBeforeCruise/badge-2024-hardware/KicadFootprints/EastMakesBrandingLibrary/Logos.pretty")(options "")(descr ""))
+)
